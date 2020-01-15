@@ -1,0 +1,2 @@
+# hexapawn
+ terminal game
